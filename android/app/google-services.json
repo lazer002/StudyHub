@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50419605218",
+    "project_id": "pnative",
+    "storage_bucket": "pnative.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50419605218:android:9f5f0cf10910b8d68e08bb",
+        "android_client_info": {
+          "package_name": "com.pnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8jqlZhL0vEK7TV63XkOxQbX_Mm-ZQrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
